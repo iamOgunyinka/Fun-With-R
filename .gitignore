@@ -1,0 +1,4 @@
+*.cpp
+*.Rhistory
+
+win-library/
